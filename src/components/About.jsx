@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-scondary text-[17px] max-w-3xl leading-[30px]'
         >
-          I'm a professional software developer with a passion for creating immersive user experiences.  I love gaming and believe gamification elements to our daily lives can elevate our experience with virtual interactions.
+          I'm a professional software developer with a passion for creating immersive user experiences.  I love playing music, tennis, surfing and snowboarding and gaming. Stoked to work on modern web applications and 3D graphic projects.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
