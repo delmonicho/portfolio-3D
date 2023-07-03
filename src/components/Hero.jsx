@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
+import { SectionWrapper } from '../hoc';
 
 const Hero = () => {
   return (
@@ -42,4 +43,4 @@ const Hero = () => {
 </section>  )
 }
 
-export default Hero
+export default SectionWrapper(Hero, '')
