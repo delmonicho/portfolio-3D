@@ -26,10 +26,6 @@ import casablanca from "./company/casablanca.jpg";
 import nexient from "./company/nexient.jpg";
 import utilisim from "./company/utilisim.jpg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
 export {
   logo,
   backend,
@@ -56,7 +52,4 @@ export {
   casablanca,
   nexient,
   utilisim,
-  carrent,
-  jobit,
-  tripguide,
 };
