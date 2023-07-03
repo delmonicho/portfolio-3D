@@ -19,9 +19,6 @@ import {
     casablanca,
     nexient,
     utilisim,
-    carrent,
-    jobit,
-    tripguide,
     threejs,
   } from "../assets";
   
@@ -216,7 +213,6 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
       source_code_link: "https://github.com/",
     },
     {
@@ -237,7 +233,6 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
       source_code_link: "https://github.com/",
     },
     {
@@ -258,7 +253,6 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
       source_code_link: "https://github.com/",
     },
   ];
