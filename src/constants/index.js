@@ -146,10 +146,11 @@ import {
       iconBg: "#0c6fe4",
       date: "Feb 2022 - Feb 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Served as an Agile consultant, specializing in various JavaScript frameworks.",
+        "Identified and resolved production issues, ensuring high-quality code and established coding standards for clients.",
+        "Managed team Git repositories and maintained CI/CD pipelines using Jenkins and Azure DevOps.",
+        "Conducted thorough testing and migration of CI/CD assets using Artifactory.",
+        "Led the migration of assets to cloud storage to optimize performance."
       ],
     },
     {
@@ -159,10 +160,10 @@ import {
       iconBg: "#000",
       date: "Feb 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed a React-based landing page for flagship product.",
+        "Designed modern, intuitive and visually appealing UI/UX ",
+        "Implemented reusable and modular design components",
+        "Used Figma to design modern layouts and novel icons",
       ],
     },
   ];
