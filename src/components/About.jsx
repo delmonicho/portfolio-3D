@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-scondary text-[17px] max-w-3xl leading-[30px]'
         >
-          I'm a professional software developer with a passion for creating immersive user experiences.  I love playing music, tennis, surfing and snowboarding and gaming. Stoked to work on modern web applications and 3D graphic projects.
+          I'm a professional software developer with a passion for creating immersive user experiences. I'm stoked for the future of spatial computing. I wonder at how our digital experiences will be transformed as well as how it will transform our relationships with others and perceptions of the world.  Happy working on modern web applications, XR applications and 3D graphic projects.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

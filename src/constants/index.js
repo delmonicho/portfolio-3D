@@ -17,6 +17,7 @@ import {
     docker,
     advicent,
     casablanca,
+    hilo,
     nexient,
     utilisim,
     threejs,
@@ -39,7 +40,7 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Web Developer",
       icon: web,
     },
     {
@@ -47,11 +48,11 @@ import {
       icon: mobile,
     },
     {
-      title: "Full Stack Engineer",
+      title: "Published ML Researcher",
       icon: backend,
     },
     {
-      title: "3D Developer",
+      title: "XR Developer",
       icon: creator,
     },
   ];
@@ -113,6 +114,19 @@ import {
   
   const experiences = [
     {
+      title: "Machine Learning Research Intern",
+      company_name: "Univeristy of Hawaii at Hilo",
+      icon: hilo,
+      iconBg: "#fff",
+      date: "July 2019 - Dec 2019",
+      points: [
+        "Co-author of a published research paper: ieeexplore.ieee.org/document/9071077",
+        "Sole presenter of findings at the CSCI Conference 2019 in Las Vegas, Nevada.",
+        "Prepared raw data images for image cover analysis",
+        "Developed sub-routines using Python to deconstruct images to enable further methods of object detection"
+      ],
+    },
+    {
       title: "Software Development Intern",
       company_name: "Utilisim Technologies Inc",
       icon: utilisim,
@@ -140,7 +154,7 @@ import {
       ],
     },
     {
-      title: "Senior JavaScript Developer",
+      title: "Senior Digital Engineer",
       company_name: "Nexient",
       icon: nexient,
       iconBg: "#0c6fe4",
@@ -154,16 +168,16 @@ import {
       ],
     },
     {
-      title: "UI/UX Developer",
+      title: "Senior Software Developer",
       company_name: "Casablanca",
       icon: casablanca,
       iconBg: "#000",
       date: "Feb 2023 - Present",
       points: [
         "Developed a React-based landing page for flagship product.",
-        "Designed modern, intuitive and visually appealing UI/UX ",
-        "Implemented reusable and modular design components",
-        "Used Figma to design modern layouts and novel icons",
+        "Created 3D assets using Three.js for web and XR applications",
+        "Leveraged PyTorch to train a Mask R-CNN model on custom images",
+        "Designed modular components, layouts and novel icons using Figma",
       ],
     },
   ];

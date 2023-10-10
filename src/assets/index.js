@@ -25,6 +25,7 @@ import advicent from "./company/advicent.jpg";
 import casablanca from "./company/casablanca.jpg";
 import nexient from "./company/nexient.jpg";
 import utilisim from "./company/utilisim.jpg";
+import hilo from "./company/uh-hilo.jpg";
 
 export {
   logo,
@@ -50,6 +51,7 @@ export {
   threejs,
   advicent,
   casablanca,
+  hilo,
   nexient,
   utilisim,
 };
